@@ -119,3 +119,18 @@
 - **Presamos importar** esses modulos no projeto para poder ultilizarmos;
 
 - Vamos ultilizar o Core Module;
+
+---
+
+## Ler argumentos
+
+- O Node permite o **envio de argumentos via linha de comando;**
+
+- Passamos eles apos as instrucoesde execusao do raquivo;
+
+- Rgumentos ficam em um arrey camado: **process.argv**
+
+- Onde Podemso **fazer um loop e rssgatar os valores** e resgatar osvalores enviados.
+
+
+
