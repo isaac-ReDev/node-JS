@@ -164,3 +164,22 @@
 - Ha um metodo para limpar as mensagens do console;
 
 ---
+
+## Melhorando a visualizacao
+
+- ha um modulo externo chamado **chalk**;
+
+- Ele pode deixar a visualizacao do console mais agradavel;
+
+- Fazendo com que seja posssivel expressar um **feedback com base em cores**;
+
+---
+
+## lendo entrada de dados
+
+- Podemos ler dadso do usuario com modulo **readline**, um core module;
+
+- Neste caso usamos o metodo **question**, que faz uma pergunta a ser respondida pelo usuario;
+
+- Deposi podemos **processa a resposta** e entregar o retorno;
+
