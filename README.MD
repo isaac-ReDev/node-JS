@@ -132,5 +132,14 @@
 
 - Onde Podemso **fazer um loop e rssgatar os valores** e resgatar osvalores enviados.
 
+---
 
+## Modulos Exxternos
 
+- Os modulos externos podem ser instalados vai **npm**;
+
+- para isso precisamos inicializar um projeto, com **npm init**;
+
+- Que sao salvos na pasta **node_modules**;
+
+- Podemos instalar modulos com **npm install <nome>**;
