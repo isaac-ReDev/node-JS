@@ -72,5 +72,50 @@
 
 -   vamos criar modulos;
 
+- Exemplo:
+```javascript
+    //exportando 
+    function soma(...args){
+        return args,reduce((accu, currentIndex) => {
+            acuu += currentIndex;
+        });
+    };
+    mudule.exports{
+        soma,
+    }
+    // importnado em um arquivo
+    const myModule = require('./MeuModulo')
+    const soma = myModule.soma;
 
+    soma(1,2,3,4,5,6);
+    //logs
+    --> 21
+```
 
+---
+
+## Export e Import;
+
+- Com o Node.JS tambem e possivel ultilizar o **Import e export  do ES**;
+
+- Sao funcionalidades mais modernas de **Importacao e exportacao**;
+
+- Com **mais recursos** do com as qie vimos antes;
+
+- Pra isso podemos modificar nossos arquicos para extencao **mjs**;
+
+- E entao podemos export uma com **export default**;
+
+- E importante com **import**, com uma unica funcao, caso seja importante; 
+
+---
+
+## Core Modules
+
+- No Node temos diversas **Core Modules**, que sao o que vem prontos para serem ultilizados.
+
+- Eles resolveram diversos problemas, como: **trabalar com arquivos e diretorio, servir aplicacoes** e etc;
+
+- **Presamos importar** esses modulos no projeto para poder ultilizarmos;
+
+- Vamos ultilizar o Core Module;
