@@ -150,3 +150,17 @@
 -   Basta **encapsular em variaveis** e depois ultilizar-los;
 
 -   Ou seja, podemos atravez do terminal, **executar tambem uma funcao de um modulo interno nosso**, por exemplo;
+
+---
+
+## Explorando o console
+
+-   Temos uma grande variedade de metodos no console, como o **'console.log()'**;
+
+- Podemso **imprimir mais de uma variavel** por vez;
+
+- Inserir  **variavesi entre strings**;
+
+- Ha um metodo para limpar as mensagens do console;
+
+---
