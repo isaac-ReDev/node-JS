@@ -39,3 +39,38 @@
 - Veremos mais sobre o modulo ao longo do curso.
 
 - Podemos importar o module ocm a instrucao **Import**;
+
+---
+
+# fundamentos do **Node.js**
+
+## O que sao sos modulos
+
+-   Modulos sao **scripts reaproveitaves *8, que ultilizamos bastante programando em node.js;
+
+-   Eles sao divididos em tres categorias;
+
+-    **Internos**: modulos que nos desenvolvemos;
+
+-    **Core modules**: modulos que vem com o Noe.js;
+
+-   **Externos**: modulos que nos instalamos via **NPM**;
+
+---
+
+## modulo Interno
+
+-   Os **Moduls INternos** sao criados nas pastas do nosso projeto;
+
+-   Precisamos **Exporta** o modulo;
+
+-   Podedemos ultilizar a instruxao **Module exports**;
+
+-   E **importante** onde precisamos ultlizar;
+
+- Para inportar precisamos ultiizar a instrucao require;
+
+-   vamos criar modulos;
+
+
+
