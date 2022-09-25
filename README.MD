@@ -143,3 +143,10 @@
 - Que sao salvos na pasta **node_modules**;
 
 - Podemos instalar modulos com **npm install <nome>**;
+
+##   Algo pratico com os argumentos
+-   podemos **ultilizar argumentos recebidos** para aplicar em nosso programa alguma logica;
+
+-   Basta **encapsular em variaveis** e depois ultilizar-los;
+
+-   Ou seja, podemos atravez do terminal, **executar tambem uma funcao de um modulo interno nosso**, por exemplo;
