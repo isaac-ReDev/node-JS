@@ -183,3 +183,23 @@
 
 - Deposi podemos **processa a resposta** e entregar o retorno;
 
+### Melhorando a leitura de dados
+
+- Ha um modulo externo  chamado **inquirer**;
+
+- Que e mais completo para **resgatar e lidar** com o input do usuario;
+
+- Alem dissom e **baseado em promises**, o que torna sua ultilizacao mais simples;
+
+---
+
+## Event Loop
+
+- O **Event Loop** e um recurso de arquitetura do node;
+
+- o **Node executa uma linha por vez**, e de cima para baixo  do codigo escrito;
+
+- Isso nos ajuda a **evitar problemas de concorrencia**, como loops infinitos;
+
+---
+
