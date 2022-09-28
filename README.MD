@@ -214,3 +214,14 @@
 - Precisamos instanciar a **class EventEmmiter** que vm deste modulo;
 
 - Entao ultilizamos os metodos para atingir nosso objetivo;b
+
+---
+
+## Sincrono e Assincrono
+- Em node.js temos duas formas de executar codigos;
+
+- Conhecidas como **sync** e **async**;
+
+- **Sync Forma sincrona:** E quando o codigo espera ser totalmente executado para prosseguir;
+
+- **Async Forma assincrona:** O codigo constinua progredindo e em um ponto futuro obtem a resposta da execuxao **assinciona**.
