@@ -203,3 +203,14 @@
 
 ---
 
+## Event Emitter
+
+- O **Event Emmiter** se comporta com os eventos do navegador;
+
+- Podemos **ativar codigo alguns pontos da aplicacao**, como o inicio;
+
+- E um **core module** chamado **events**;
+
+- Precisamos instanciar a **class EventEmmiter** que vm deste modulo;
+
+- Entao ultilizamos os metodos para atingir nosso objetivo;b
