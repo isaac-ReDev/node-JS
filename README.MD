@@ -236,3 +236,16 @@
 
 - **Try, catch:** uma formade evidenciar algo que deu errado em um bloco de codigo e existe a message mde erro.
 
+
+# Sobre Core Modules
+
+- Vamos ver diversos Core Modules em detalhes, que sao **funcdamentais para criaca ode softwares em node**;
+
+- **http** modulo para criar servidores HTTPS.
+
+- **path** extrair informacoes de path(**caminho de diretorios**);
+
+- **fs** file system, leitura e escrieta de arquivos;
+
+- **url** modelos para trabalhar com URLs;
+
