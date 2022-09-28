@@ -225,3 +225,14 @@
 - **Sync Forma sincrona:** E quando o codigo espera ser totalmente executado para prosseguir;
 
 - **Async Forma assincrona:** O codigo constinua progredindo e em um ponto futuro obtem a resposta da execuxao **assinciona**.
+
+---
+
+## Erros no Node
+
+- Temos duas formas principais para **gerar ou evidenciar erros me node.JS**
+
+- **Throw:** uma forma de encerrar um programa, gerando um novo erro.
+
+- **Try, catch:** uma formade evidenciar algo que deu errado em um bloco de codigo e existe a message mde erro.
+
