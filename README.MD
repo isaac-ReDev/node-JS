@@ -288,3 +288,22 @@
 
 - Isso e **terrivel para produtividade!**;
 
+---
+
+## Modulo Url
+
+- O modulo **url** serve para que possamos deconpor o metood **parse**;
+
+- Podemos resgatar: **host, path, search, query** e etc;
+
+- A partir dessa infiormacoes podemso alterar a logica das nossas aplicacoess;
+
+## Uhnindo os medulos http e url
+
+- **Podemos trabalhar com esse modulo juntos** e ter um resultado interessante;
+
+- Com o **http criamso nosso servidor** e alteramos a resposta com base na **URL** acessada;
+
+- **Com url processamos os parametros** que vem pela query string, para alterar a logica do http;
+
+
