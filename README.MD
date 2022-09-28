@@ -249,3 +249,42 @@
 
 - **url** modelos para trabalhar com URLs;
 
+
+# O modulo http
+
+- Podemos criar um **servidor HTTP** com este modulo;
+
+- Ou seja, receber uma requisisca e enviar **codigos HTML** como resposta, por exemplo;
+
+- Vamos ultizar alguns modelos **como createServer**, para criacao do servidor;
+
+- e tabem **listen**, para determinar a porta;
+
+## Parando o servidor
+
+- ha alguns servidores que **ocupam a aba do terminal** para continuarem rodando;
+
+- Um deste e o modulo **HTTP**;
+
+- Parar parar este servidor basta ultilizar o **CTRL + c**;
+
+- Isso **e util quando a um problema no codigo** tambem;
+
+## Retornando HMTLcom o http
+
+- Para retornar HTML precisamos **implementar mais recursos**;
+
+- Podemos adicionar um **status code** no retorno, com a propriedade **statusCode**;
+
+- Mudar os headers para **textHTML**;
+
+- E retornar o HTML pelo **metodo end** do http;
+
+## Atualizacoes de projeto
+
+- Para emitir as atualizacoes do projeto **precisamos sempre reiniciar o servidor**;
+
+- Ou seja, salvar, encerrando e inciando, este e o processo;
+
+- Isso e **terrivel para produtividade!**;
+
