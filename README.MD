@@ -360,5 +360,14 @@
 
 - Neste metodo tambem verificar algum eventuial erro, pela **callback**;
 
-- 
+--- 
 
+## Rotas com node.js puro
+
+- Podemos criar um **sistema de roteamento** simples com node.js e seus core modules;
+
+- As rotas  sao basicamente **paginas que acessamos** no nosso site;
+
+- A ideia e **Indentificar as arquivos acessados pla url** e retornar-los, se existirem;
+
+    

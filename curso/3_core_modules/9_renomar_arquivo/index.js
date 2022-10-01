@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-console.log("ls");
+
 
 fs.rename('arq.txt', "newArq.txt", function(error){
     if(error){
