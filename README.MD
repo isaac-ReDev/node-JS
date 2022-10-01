@@ -340,5 +340,15 @@
 
 - Que tem a mesma ultili nos permite unir os conteudos;
 
+---
+
+## Removendo arquivo
+
+- Para remover mu arquivo com o **fs** ultilizamos o modulo **unlink**;
+
+- Precisamos **passar o arquivo como parametro**;
+
+- Temos a possibiblidadde de checar algum erro, apartir da **callback** retornada;
+
 
 
