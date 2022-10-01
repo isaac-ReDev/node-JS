@@ -350,5 +350,15 @@
 
 - Temos a possibiblidadde de checar algum erro, apartir da **callback** retornada;
 
+---
 
+## Renomeando arquivos
+
+- Para renomear um qruivo com  ofs ultilizamos o modulo **rename**;
+
+- Precisamos **passar o arquivo como como parametro** e tabem o novo nome;
+
+- Neste metodo tambem verificar algum eventuial erro, pela **callback**;
+
+- 
 
