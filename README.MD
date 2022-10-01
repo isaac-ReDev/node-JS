@@ -306,4 +306,39 @@
 
 - **Com url processamos os parametros** que vem pela query string, para alterar a logica do http;
 
+---
+
+## Modulo **fs**
+
+- O modulo **fs** (File System) serve para trabalhar com arquivo e diretorios;
+
+- Este e tembe m um **core moduro**; 
+
+- Podemos ler e escrever em arquivos, **por exemplo**;
+
+- Uma atualizacao interessante: **Logs do sistema**;
+
+---
+
+## Escreendo em arquivos
+
+- Podemos criar e escrever com arquivos abem, ultilizando o metodo **whiteFile**;
+
+- Esta escrita pode estar associada a um conjunto de operacoes;
+
+- Como o **envio de informacoes do usuasrio**, por exemplo;
+
+--- 
+
+## Atualizndo arquivos
+
+- O **writeFIle** substitui tudo que esta dentro de um arquivo;
+
+- **E se quisermos atualizar ?**
+
+- Para este fim ultilizamos o **appendile**;
+
+- Que tem a mesma ultili nos permite unir os conteudos;
+
+
 
