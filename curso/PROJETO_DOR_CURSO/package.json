@@ -1,0 +1,21 @@
+{
+  "name": "projeto_dor_curso",
+  "version": "1.0.0",
+  "description": "projeto com fins educacionais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"inicializando Nosso Projeto\" && node index.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "isaac-ReDev",
+  "license": "ISC",
+  "devDependencies": {
+    "ansi-colors": "^4.1.3"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.3"
+  }
+}

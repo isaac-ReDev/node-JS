@@ -1,0 +1,15 @@
+{
+  "name": "1_criando_projeto",
+  "version": "1.0.0",
+  "description": "curso de node js, criando projetos NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "opa": "echo \"fala meu faal meu peixe\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC"
+}

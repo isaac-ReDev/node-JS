@@ -421,6 +421,47 @@
 
 ---
 
+# NMP FUNDAMENTAL
+
+## Oque e o nmp ?
+
+- E o princial **gerenciador de pacotes** do Node js. SIGRA:(**node package manager**);
+
+- A MAIORIA DOS PACOTES QUE VAMOS TRABALHAR EM Node, **TAMBEM TERA ATUACAO DO NPM**
+
+- Podemos nao so instalar pacotes; mas tambem **configurar o projeto e rodar scripts** por meio do npm;
+
+- A criacao de um projeto fera sempre um arquivo, o **Package json**;
+
+## Instalacao de pacotes ( install packages )
+
+- Para instalar um pacote vamos ultilizar o comando ** npm install <namme>**
+
+## Instalando um pacote com **DEV**
+
+- Ha uma possibilidade de **instalar pacotes apenass para o  ambiente de desenvolvimento**;
+
+- Ultilizamos a flagg **--save-dev**;
+
+- Isso faz com que ele seja separado do **package.json dos demais**;
+
+- E entao na biuld de producao nao instalamos estes modulos;
+
+- Um exemplo: Servidor para ambiente local, como o **Nodemon**;
+
+## Atualizacao de pacotes
+
+- Constantemente **os pacotes do npm sao atualizados** por seus desenvolvedores;
+
+- Temos entao o comando **npm update**;
+
+- Que vai fazer a atualizacao de todos os pacotes instalados no package.json;
+
+- E possivel um pacote especifico com **npmp update <nome>**
 
 
-    
+
+
+
+
+

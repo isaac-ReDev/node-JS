@@ -1,0 +1,1 @@
+console.log("crinado scripts no npm")
