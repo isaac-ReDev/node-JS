@@ -403,6 +403,24 @@
 
 ---
 
+## Trabalhando com Diretorios
+
+- Com o modulo **FS** tambem podemos **trabalhar com diretorios** (PASTAS);
+
+- O metodo **exist** pode evidenciar se um diretorio existe ou nao;
+
+- E o metodo **mkdir** pode criar um diretorio;
+
+---
+
+## OS
+
+- Com o module **OS** podemos extrair informacoes do sistema operacional;
+
+- Este tambem e um **Core Module**;
+
+---
+
 
 
     
