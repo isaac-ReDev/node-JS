@@ -333,8 +333,19 @@
 ## Atualizndo arquivos
 
 - O **writeFIle** substitui tudo que esta dentro de um arquivo;
-
+<!--  -->
 - **E se quisermos atualizar ?**
+
+---
+
+## Detalhe dos arquivos
+
+- Podemos sasber mais sobre o arquivo temos acesso;
+
+- Ultilizaos o metodo **stat** do fs;
+
+- Com ele temso informacoes de: tamanho, data de criacao, se e arquivo diretorio e etx;
+
 
 - Para este fim ultilizamos o **appendile**;
 
@@ -369,5 +380,29 @@
 - As rotas  sao basicamente **paginas que acessamos** no nosso site;
 
 - A ideia e **Indentificar as arquivos acessados pla url** e retornar-los, se existirem;
+
+---
+
+## Module Path
+
+- Com o **path** conseguimos extrair diversas informacoes sobre os caminhos e arquivos;
+
+- Este tambem e um **code module**
+
+- Algumas **informecoes possives sao:** node do diretorio, nome do arquivo, extencoes de arquivos e etc,
+
+---
+
+## Path absolute e formar path
+
+- Com a funcao **resolve** e possivel saber qual o path completo ate o arquiv alvo;
+
+- E com a funcao **join** e possivel formar um path dinamico, com variaveis e valores fixos;
+
+- Sao duas funceos muito importantes;
+
+---
+
+
 
     
