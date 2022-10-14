@@ -1,0 +1,14 @@
+# TEMPLATE ENGINE
+
+## WHAT IS TEMPLATE ENGINE ?
+
+- Uma template agine deixa o **HTML dinamico, inserindo variaveis**  do back-end no front-end;
+
+- Podemos tambem criar **layouts**, que sao reaproveitaves;
+
+E ensencial para projetos usando banco de dados, que **nao sao estaticos**;
+
+- Temos diversos disponiveis: **Ejs, Pug e Handlebards**, por exemplo;
+
+- **Podemos atingir o mesmo objetivo**, porem ha algumas diferencas de setup e funcionalidades;
+
