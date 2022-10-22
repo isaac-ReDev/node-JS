@@ -12,3 +12,86 @@ E ensencial para projetos usando banco de dados, que **nao sao estaticos**;
 
 - **Podemos atingir o mesmo objetivo**, porem ha algumas diferencas de setup e funcionalidades;
 
+## GETTING TO KNOW HANDLEBARS
+
+- O **handlebars** e uma das templates engine mais ultilizadas mais ultilizadas;
+
+- colocamos os dados dinamicos no HTML entre **{{}}** para serem impressos;
+
+- Podemos **criar condicionais e tambem loops** no template;
+
+- **Conhecendo pela sintaxe limpa no front**, nos forcando a nao executar logica no html;
+
+- O nome do pacote e **express-handlebars**;
+
+## CRIANDO LAYOUTS
+
+Podemos criar layouts para reaprovietar codigo entre paginasp;
+
+- Vamos criar uma **pasta chamada layouts ** em view;
+
+- E nela **criamos o tmeplate que sera repetido**;
+
+- Colocamso a tag especial **{{body}}**;
+
+- para que nesse local o 'corpo' do site seja inserido;
+
+- Em **todas as nossas views** agora o layout e reoetido;
+
+
+## passando dados para view
+
+- Vamos passar os dados por meio do  **metodo render**;
+
+- Enviamos um onjeto com chaves e valores;
+
+- E isso nos possibilita acessar **dados no template**
+
+- Vamos ultilizar a sintaxe {{dados}}
+
+## ULTILIZANOD CONDICIONAIS
+
+- Utilizando uma estrutura condicinal nos permite mais flexiblildade no layout;
+
+- Podemos ultlizar **IFs** no **handleBars**;
+
+- A sintaxe e **{{#if algumacois}}**... **{{/if}}**;
+
+- E o **{{else}}** se ultiliza entre o if
+
+- **So Imprime o que esta entre as condicionais**, so o resultado data for verdadeiros
+
+
+
+# Node.JS com mySQL
+
+## O que sao bancos relacionais ?
+
+- os **bancos de dados** relacionais sao construidos por algumas instidades;
+
+- **Bancos de dados**: Um bando para guardar os dados do projeto;
+
+- **Tabelas**: Onde categoricamente os dados sao inseridos;
+
+- **Conlunas**: Onde separamos os dados em uma tabela;
+
+- **Dados**: O que e inserido, modificado, atualizado e removido em uma tabela;
+
+- **Relacionamentos:** Lgacoes entre as tabelas;
+
+
+## O que e mySQL ?
+
+- O MySQL e um **SGDB** (Sistema Gerenciador de Banco de Dados);
+
+- Que vai nos ajudar com **bancos relacionais**;
+
+- Tabem e **o mais ultilizado atualmetne**  em sistemas e aplicacoes;
+
+- Muitos **projetos em node.js ultilizam mySQL**;
+
+- Precisamos **isntalar o software e deixar em execucao**  para que o node possa se conectar aos bancos que temos disponiveis.
+
+
+## Instalasao MySQL Linus
+
